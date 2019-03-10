@@ -4,6 +4,11 @@
 
 Write the description here.
 
+# Godot Engine
+
+We're using Godot Engine 3.1 RC 1.
+You can download it here: https://downloads.tuxfamily.org/godotengine/3.1/rc1/
+
 # Folders' descriptions
 
 ## assets
