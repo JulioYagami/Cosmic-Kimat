@@ -9,6 +9,13 @@ Write the description here.
 We're using Godot Engine 3.1 RC 1.
 You can download it here: https://downloads.tuxfamily.org/godotengine/3.1/rc1/
 
+# Code
+
+We have some __code rules__:
+
+- The game doesn't use C# or VisualScript, it's only GDScript.
+- We use static typed GDScript.
+
 # Folders' descriptions
 
 ## assets
