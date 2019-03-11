@@ -2,6 +2,8 @@ extends Node
 
 # here are all the common units' features
 
+class_name unit
+
 # default enums
 
 # fixed
