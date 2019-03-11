@@ -31,6 +31,8 @@ var unit_emotion: int = 0 setget set_unit_emotion, get_unit_emotion
 func _ready():
 	pass
 
+# setget methods
+
 func set_unit_name(new_unit_name: String) -> void:
 	unit_name = new_unit_name
 
