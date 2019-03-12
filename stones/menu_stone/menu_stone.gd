@@ -1,11 +1,10 @@
-extends Node
+extends "res://stones/stone.gd"
 
 # this is the menu stone
 
-# properties
-
 func _ready():
-	pass
+	this_stone = autoload.STONES.MENU
+	set_as_active()
 
 # how the menu will be tiggered
 
